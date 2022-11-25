@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "uWsTest",
   "main": "app.mjs",
-  "packageManager": "yarn@3.2.4"
+  "dependencies": {
+    "debug": "^4.3.4",
+    "uWebSockets.js": "uNetworking/uWebSockets.js#v20.15.0"
+  }
 }
