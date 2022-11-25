@@ -1,0 +1,7 @@
+{
+  "name": "uwstest",
+  "version": "1.0.0",
+  "description": "uWsTest",
+  "main": "app.mjs",
+  "packageManager": "yarn@3.2.4"
+}
